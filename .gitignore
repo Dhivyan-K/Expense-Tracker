@@ -1,0 +1,12 @@
+# Dependencies
+node_modules/
+frontend/node_modules/
+backend/node_modules/
+
+# Build cache
+frontend/.cache/
+.cache/
+
+# Environment files
+.env
+.env.local
